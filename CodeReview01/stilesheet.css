@@ -6,6 +6,7 @@
 			width: 90%;
 			height: 110px;
 			text-align:center;
+			font-family: serif;
 
 }
 #header2 	{
@@ -16,5 +17,32 @@
 			display: inline-block; 
 			position: absolute;
 			top: 8px; left: 1px;
+			font-family: serif;
 }
- 
+a:link       {
+			color:white;
+			text-decoration:none;
+}
+a:visited {
+			color:white;
+			text-decoration:none;
+	}
+a:hover {
+			color:white;
+			text-decoration:none;
+	}
+a:active{
+			color:white;
+			text-decoration:none;
+}
+
+ #nav 		{background-color: brown;
+ 			 font-size: 20px;
+ 			 font-weight: bold;
+			 width: 90%;
+			 height:50px;
+			 text-align: center;
+			 text-shadow:20px;
+			 text-decoration:none;
+			 font-family: serif;
+ }
