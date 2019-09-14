@@ -26,10 +26,7 @@
 			 width: 90%;
 			 height:50px;
 			 position: relative;
-			 
-			 text-decoration:none;
-			 font-family: serif;
- }
+}
 
 a:link       {
 			color:white;
@@ -65,7 +62,7 @@ a:active{
 			color: white;
 }
  
- div       {
+div       {
 			font-weight: bold;
 }
 
@@ -114,6 +111,9 @@ a:active{
 			font-size: 20px;
 }
 
- 
-
+ul    {    font-weight: normal;
+		   text-align:left;
+		   text-decoration: none;
+		   list-style: none;
+}
  
